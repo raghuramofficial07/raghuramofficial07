@@ -2,7 +2,7 @@
 ![VSR](https://github.com/user-attachments/assets/1c3afe76-f8a5-4418-9c26-77be2011aac7)
 
 
-# » About Me
+#  About Me
 
 Hello! I’m **Vemparala Sri Satya RaghuRam**, but you’ll find me across the web as **RaghuRam1241** — a passionate junior developer who believes in building beyond certifications and focusing on industry-oriented, real-world skills.
 
@@ -14,7 +14,7 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 ---
 
-# » What I Do
+#  What I Do
 
 - ✅ Build iOS apps using **Swift**, **UIKit**, and **AVFoundation**  
 - ✅ Design multi-screen mobile apps with **Flutter & Dart**  
@@ -24,7 +24,7 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 ---
 
-# » Online Presence
+#  Online Presence
 
 - 🔗 **LinkedIn**: [RaghuRam1241](https://linkedin.com/in/raghuram1241)  
 - 🐙 **GitHub**: [raghuramofficial07](https://github.com/raghuramofficial07)  
@@ -32,7 +32,7 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 ---
 
-# » Tech Stack & Tools
+#  Tech Stack & Tools
 
 | Platform         | Tools & Languages                                       |
 |------------------|---------------------------------------------------------|
@@ -43,7 +43,7 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 ---
 
-# » Current Goals
+#  Current Goals
 
 - 📱 Build & publish **6+ mobile apps** on GitHub  
 - 💼 Land a **top-tier internship** within the next year  
@@ -52,6 +52,6 @@ Whether it’s using **Core Location**, building animations, or managing shared 
 
 ---
 
-# » Motto
+#  Motto
 
 > “Build for real users. Learn like a beginner. Share like a pro.”
