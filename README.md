@@ -1,5 +1,5 @@
 <!-- GitHub Project Banner -->
-<img width="844" alt="Screenshot 2025-06-24 at 12 00 13 PM" src="https://github.com/user-attachments/assets/36981f8a-bd10-4bc7-a586-9f5604f87176" />
+![VSR](https://github.com/user-attachments/assets/1c3afe76-f8a5-4418-9c26-77be2011aac7)
 
 
 # » About Me
